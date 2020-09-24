@@ -29,7 +29,7 @@
      
      - Como funciona o Cache distribuído?
      
-     R: Ele é armazenado em um conjunto de servidores(clusters), na qual tem como objetivo principal de melhorar o desempenho, escalabilidade e resiliência das informações.
+     R: Ele é armazenado em um conjunto de servidores(clusters), no qual tem como objetivo principal de melhorar o desempenho, escalabilidade e resiliência das informações.
 
 # Expondo ferramentas envolvidas
    - [Instalar .Net Core 3.1 SDK](https://dotnet.microsoft.com/download)
@@ -38,7 +38,7 @@
 # Criando um Cenário
 
 > Imaginemos que temos uma aplicação que tem  como finalidade monitorar o tempo da sua localidade
-> e ele possui uma api rest construida com .Net Core que está passando  por grandes instabilidades devido a 
+> e ele possui uma api rest construida com .Net Core que está passando  por grandes instabilidades devido à 
 > demora de receber os conteudos de um endpoint X.
 > Esse mesmo endpoint é muito solicitado, conhecido como "CÓDIGO QUENTE", pois a cada 10 ms(milésimo de segundo) é feito um request, tornando o processo de monitoria inválido. Então a equipe chamou o grande "Developer Marcus" pra resolver HAHAH e assim foi feito!
 > Vamos analisar o seguintes passos para entender como ele resolveu?
