@@ -14,22 +14,22 @@
 # Conceitos  
     - O que é redis?
     
-     R: É um projeto open source que tem como objetivo fornecer uma storage para armazemento de dados que pode ser utilizado como cache ou message broker. Nele podemos armazenar em geral: Strings, conjunto de dados(Array,List) e etc.
+     R: É um projeto open source que tem como objetivo fornecer uma storage para armazenamento de dados que pode ser utilizado como cache ou message broker. Nele podemos armazenar em geral: Strings, conjunto de dados(Array,List) e etc.
      
     - O que é .NetCore?
     
-     R: É um framework desenvolvido pela Microsoft que tem como base linguistísca: C#, F# por exemplo, além de poder ser utilizados nos sistemas operacionais: Windows, MacOS e distribuições Linux.
+     R: É um framework desenvolvido pela Microsoft que tem como base linguística: C#, F# por exemplo, além de poder ser utilizados nos sistemas operacionais: Windows, MacOS e distribuições Linux.
     - Qual o papel de um "CACHE"?
     
-     R: Visa armazenar um conjunto de informações que são frequentementes utilizados afim de recuperá-los de forma mais rápida.
+     R: Visa armazenar um conjunto de informações que são frequentemente utilizados afim de recuperá-los de forma mais rápida.
      
     - O que o Docker vai ajudar?
     
-     R: A fornecer um conjunto de produtos de plataforma como serviços de forma isoladas uns dos outros, trazendo transparência e facilidade na hora de rodar aplicação. 
+     R: A fornecer um conjunto de produtos de plataforma como serviços de forma isolada uns dos outros, trazendo transparência e facilidade na hora de rodar aplicação. 
      
      - Como funciona o Cache distribuído?
      
-     R: Ele é armezanado em um conjunto de servidores(clusters), na qual tem como objetivo principal de melhorar o desempenho, escalabilidade e resiliência das informações.
+     R: Ele é armazenado em um conjunto de servidores(clusters), na qual tem como objetivo principal de melhorar o desempenho, escalabilidade e resiliência das informações.
 
 # Expondo ferramentas envolvidas
    - [Instalar .Net Core 3.1 SDK](https://dotnet.microsoft.com/download)
